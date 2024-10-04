@@ -45,6 +45,10 @@ FitFusion-Gym is a modern, stylish website for a fitness gym, designed to attrac
 
 No special installation is required. Simply download the repository and open the `index.html` file in a web browser to view the website.
 
+##Demo
+
+you can view a live demo of this site https://niharikasarma001.github.io/FitFusion-Gym/
+
 ## Contributing
 
 Feel free to fork this repository and submit pull requests for any improvements or new features you would like to add.
